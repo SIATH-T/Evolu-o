@@ -1,0 +1,46 @@
+Introdução a git e github 
+
+Comando para terminal !
+
+WINDOWS
+
+dir- lista arquivos e pastas
+mkdir-Criar pastas
+cd-Entrar em uma pasta
+del+nome da pasta (ira deletar os componentes da pasta).
+rmdir+nome da pasta + S/Q (ira apagar a pasta e tudo que tem dentro dela).
+
+cd.. -volta
+
+cls-limpar terminal
+
+ 
+Principais comando para o git
+
+git init - inicializar um repositorio
+git add- prepapar o arquivo para o commit
+git commit -m 'dados da mudança da pasta ' - irar fazer o commit
+
+mv + nome do arquivo ./nome da pasta (esse comando ira mover o arquivo para a pasta)
+
+Colocando o arquivo no github!	
+
+git remote add origin + link do git
+
+ou
+
+git push origin main
+
+
+links :
+
+comandos do git
+
+https://www.atlassian.com/br/git/tutorials/git-bash#:~:text=O%20Git%20Bash%20%C3%A9%20o,por%20meio%20de%20comandos%20gravados.
+
+guia para Markdow
+
+https://www.markdownguide.org/getting-started/
+
+
+
