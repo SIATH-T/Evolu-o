@@ -21,9 +21,37 @@ git init - inicializar um repositorio
 git add- prepapar o arquivo para o commit
 git commit -m 'dados da mudança da pasta ' - irar fazer o commit
 
+. comandos:
+ 
+.git init (gera no diretório o repositório do .git; neste repositório (Working Directory) arquivos criados e não rastreados = Untracked);
+
+.git add (inicia versionamento e o arquivo começa a ser (em ciclos) rastreado = Tracked: Unmodified, Modified, Staged = Staging Area); 
+
+.git commit (gera objetos, HASH, salva a versão do novo código; armazena o histórico do snapshot(fluxo com todos os commits); 
+commits integram o Local Repository);
+		
+.git status (aponta o monitoramento dos estados do arquivo: Unmodified, Modified, Staged).
+
+
+GITHUB - Remote Repository; guarda os versionamentos dos códigos do GIT:
+
+. repositório on-line, armazenamento em nuvem;
+
+. permite melhorar o código com contribuições de outros developers;
+
+. permite reconhecimento;	
+
+. chave SSH - conexão segura e encriptada entre duas máquinas por chaves pública e privada;
+
+ Token de acesso pessoal - assemelha-se ao acesso por usuário e senha, sendo a senha o token;
+
+
+
 mv + nome do arquivo ./nome da pasta (esse comando ira mover o arquivo para a pasta)
 
+
 Colocando o arquivo no github!	
+
 
 git remote add origin + link do git
 

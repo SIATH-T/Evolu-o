@@ -1,0 +1,38 @@
+body {
+  background:rgb(240, 87, 189);
+  font-family:'Times New Roman';
+  margin: auto;
+  margin-left: 5%;
+  margin-right: 5%;
+  
+}
+
+#titulo,.titulodeumposte{
+    text-align: center;
+    color: azure;
+  }
+
+  .popo{
+    color: rgb(241, 206, 240);
+  }
+.likesimportantes{
+  color: rgb(243, 191, 227);
+}
+  footer{
+    margin-bottom: 30%;
+    border-style: dotted;
+    border: 10,10,10,10;
+    border-color: rgb(252, 252, 252);
+    color: white; 
+
+  }
+
+  .rodapé{
+    color: rgb(238, 248, 243);
+
+  }
+
+  .roda1{
+    color: rgb(240, 211, 235);
+  }
+
